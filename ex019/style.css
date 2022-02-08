@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    color: red;
+}
+
+h1#principal{
+    color: blueviolet;
+    text-align: center;
+}
+h2{
+    color: blue;
+}
+.pares{
+    color: brown;
+}
+.impares{
+    background-color: burlywood;
+}
